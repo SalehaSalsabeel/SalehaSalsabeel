@@ -1,15 +1,14 @@
-# Hi there, I'm Saleha 👋
+# Hi there, I'm Saleha Salsabeel 👋
+### Mobile Application Engineer & AI / Computer Vision Developer 📱🤖
 
-Software Engineering & CS Undergraduate | Flutter Developer | Backend & Cloud Enthusiast
-
-I build cross-platform mobile applications, automated workflow systems, and data-driven web platforms. Currently focused on developing **WeFit AI**, an adaptive fitness and nutrition recommender system for my Final Year Project.
+Software Engineering & CS Undergraduate passionate about building high-performance cross-platform mobile applications, computer vision systems, and robust offline-first software architectures.
 
 ---
 
 ### 🔭 Current Focus
-* 🎓 **Final Year Project:** **WeFit AI** — An AI-driven, cycle-aware fitness and nutrition recommendation engine adapting workout exertion and diet to menstrual cycles.
-* 📱 **Mobile Development:** Building production-grade Flutter applications with clean architectures and automated CI/CD pipelines.
-* ☁️ **Backend Architecture:** Architecting scalable cloud backends using Supabase, Firebase, and relational database systems.
+* 📱 **Mobile Engineering:** Architecting scalable, production-grade **Flutter** applications using **Clean Architecture**, **Riverpod**, and embedded ACID databases (**Isar NoSQL**).
+* 🤖 **Computer Vision & AI:** Developing real-time Human-Computer Interaction (HCI) systems utilizing **Google MediaPipe**, **OpenCV**, and **Python**.
+* ☁️ **Cloud & Backend Architecture:** Implementing secure authentication, cloud sync, and offline-first database synchronization with **Firebase** and cloud services.
 
 ---
 
@@ -18,41 +17,41 @@ I build cross-platform mobile applications, automated workflow systems, and data
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Mobile & Frameworks:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod_2.6-blueviolet?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=flat-square&logo=google&logoColor=white)
 
 **Cloud, Database & DevOps:**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic-F65314?style=flat-square&logoColor=white)
+![Isar Database](https://img.shields.io/badge/Isar_NoSQL-FF6F00?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-### 🚀 Featured Repositories & Projects
+### 🚀 Featured Projects
 
-* **[WeFit AI](https://github.com/SalehaSalsabeel/WeFit_FYP_BULC.git):** Adaptive cycle-aware fitness & nutrition recommendation engine pairing real-time user symptoms and biometric datasets with tailored exercise routines.
-* **FinTech & Ledger Applications:** Flutter-based business and ledger tracking solutions featuring automated CI/CD builds, secure authentication, and cloud databases.
-* **Workflow Automation Bots:** Headless scraping utilities and notification micro-services orchestrated via Python and scheduled GitHub Actions.
+* **[AI-Powered Hand Gesture Control](https://github.com/SalehaSalsabeel/AI_Powered_HandGestureControl):** Real-time computer vision system that transforms webcam input into a virtual mouse and touchless presentation controller using Google MediaPipe (21 3D hand landmarks), OpenCV, and PyAutoGUI.
+* **[KistKhata](https://github.com/SalehaSalsabeel/KistKhata):** Enterprise-grade offline-first Installment (Kist) and Digital Ledger (Khata) Point of Sale system built with Flutter, Riverpod, Isar NoSQL, and Firebase.
+* **FamLedger:** Mobile personal finance and family ledger tracking application with local caching, transaction analytics, and cloud backup.
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SalehaSalsabeel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehaSalsabeel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/saleha-salsabeel](https://www.linkedin.com/in/saleha-salsabeel-a9614031a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* **LinkedIn:** [Saleha Salsabeel](https://www.linkedin.com/in/saleha-salsabeel-a9614031a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 * **Email:** [salehasalsabeel@gmail.com](mailto:salehasalsabeel@gmail.com)
+* **GitHub:** [@SalehaSalsabeel](https://github.com/SalehaSalsabeel)
